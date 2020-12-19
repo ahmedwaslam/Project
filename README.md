@@ -214,5 +214,3 @@ pred1Logtable2 <- table(pred = pred_model_probit1, true = dat_test$Loan_Approved
 pred1Logtable2
 goodlogpred2 <- sum((prop.table(pred1Logtable2)[1,1])+(prop.table(pred1Logtable2)[2,2]))
 goodlogpred2
-
-
