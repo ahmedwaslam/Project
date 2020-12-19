@@ -1,5 +1,3 @@
-# Project
-
 getwd()
 setwd("/Users/mirajulfahim/Downloads/ecob2000_lecture1/Econometrics Project")
 
